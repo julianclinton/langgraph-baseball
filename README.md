@@ -16,7 +16,6 @@ uv sync
 
 ## Run the code
 
-You will need 3 terminals:
+You will need 2 terminals:
 - one running `ollama serve` (may already be running)
-- one running the LLM of choice e.g. `ollama run llama3.2`
 - one running LlangGraph `uv run main.p`
